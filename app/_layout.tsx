@@ -30,7 +30,7 @@ export default function Layout() {
           }}
         />
         <Stack.Screen
-          name="refills/index"
+          name="refills"
           options={{
             headerShown: false,
             headerBackTitle: "",
@@ -38,7 +38,7 @@ export default function Layout() {
           }}
         />
         <Stack.Screen
-          name="calendar/index"
+          name="calendar"
           options={{
             headerShown: false,
             headerBackTitle: "",
@@ -46,7 +46,7 @@ export default function Layout() {
           }}
         />
         <Stack.Screen
-          name="history/index"
+          name="history"
           options={{
             headerShown: false,
             headerBackTitle: "",
